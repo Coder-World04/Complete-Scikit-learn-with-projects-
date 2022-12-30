@@ -7,7 +7,7 @@ This repository contains everything you need to become proficient in Scikit lear
 
 ---
 
-Start here : [30 days of Scikit Learn Series with Projects](https://medium.com/coders-mojo/day-1-of-30-days-of-scikit-learn-series-with-projects-76341935e5fd?sk=44a6845c53109c2482c368bdb7924e46)
+# Start here : [30 days of Scikit Learn Series with Projects](https://medium.com/coders-mojo/day-1-of-30-days-of-scikit-learn-series-with-projects-76341935e5fd?sk=44a6845c53109c2482c368bdb7924e46)
 
 # Supervised learning
 
