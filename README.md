@@ -1,7 +1,8 @@
 # Complete-Scikit-learn-with-projects-
 This repository contains everything you need to become proficient in Scikit learn
 
-![13cdffd4 copy](https://user-images.githubusercontent.com/104568275/210075197-e4b2aae3-8e9c-47c6-ac3e-fe3b804048c3.png)
+
+![scikit-learn (1)](https://user-images.githubusercontent.com/104568275/210075287-f07d6935-607b-428a-bcfe-c49f9a8ce604.png)
 
 
 ---
