@@ -11,78 +11,78 @@ This repository contains everything you need to become proficient in Scikit lear
 
 # Supervised learning
 
-Linear Models
+[Linear Models](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Linear and Quadratic Discriminant Analysis
+[Linear and Quadratic Discriminant Analysis](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Support Vector Machines
+[Support Vector Machines](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Stochastic Gradient Descent
+[Stochastic Gradient Descent](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Nearest Neighbors
+[Nearest Neighbors](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Gaussian Processes
+[Gaussian Processes](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Cross decomposition
+[Cross decomposition](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Naive Bayes
+[Naive Bayes](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Decision Trees
+[Decision Trees](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Ensemble methods
+[Ensemble methods](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Feature selection
+[Feature selection](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Semi-supervised learning
+[Semi-supervised learning](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Neural network models
+[Neural network models](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
 # Unsupervised learning
 
-Gaussian mixture models
+[Gaussian mixture models](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Clustering
+[Clustering](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Biclustering
+[Biclustering](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Matrix factorization
+[Matrix factorization](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Covariance estimation
+[Covariance estimation](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Outlier Detection
+[Outlier Detection](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Density Estimation
+[Density Estimation](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
 # Model selection and evaluation
 
-Cross-validation
+[Cross-validation](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Hyper-parameters Tuning
+[Hyper-parameters Tuning](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Performance Metrics
+[Performance Metrics](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Validation curves
+[Validation curves](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
 # Visualizations
 
-Data viz using Matplotlib and seaborn
+[Data viz using Matplotlib and seaborn](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
 # Dataset transformations
 
-ML Pipelines
+[ML Pipelines](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Feature extraction
+[Feature extraction](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Preprocessing data
+[Preprocessing data](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Imputation of missing values
+[Imputation of missing values](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Dimensionality reduction
+[Dimensionality reduction](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
-Kernel Approximation
+[Kernel Approximation](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
 # Scikit Learn Projects ( 40)
 
-scikit learn projects repo 
+[scikit learn projects repo](https://medium.com/coders-mojo/implemented-scikit-learn-projects-c0e65f70e54e?sk=819c5487448cb84eafa75589a6a770cd)
 
 ---
