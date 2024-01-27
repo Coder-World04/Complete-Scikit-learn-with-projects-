@@ -5,6 +5,8 @@ This repository contains everything you need to become proficient in Scikit lear
 ![scikit-learn (1)](https://user-images.githubusercontent.com/104568275/210075287-f07d6935-607b-428a-bcfe-c49f9a8ce604.png)
 
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 ---
 
 # Start here : [30 days of Scikit Learn Series with Projects](https://medium.com/coders-mojo/day-1-of-30-days-of-scikit-learn-series-with-projects-76341935e5fd?sk=44a6845c53109c2482c368bdb7924e46)
